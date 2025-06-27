@@ -22,5 +22,5 @@ This project is a responsive **Contact Form** webpage built using HTML and CSS. 
 This project improved my skills in layout design, color theory, and responsive UI development.
 
 <div align="center">
-  <img src="https://github.com/lorraine-mwoyounotsva/mini-project-contact-form/blob/main/contact-form.png?raw=true" alt="404 Page Preview" width="400"/> 
+  <img src="https://github.com/lorraine-mwoyounotsva/mini-project-contact-form/blob/main/contact-form.png?raw=true" alt="Contact Form Preview" width="400"/> 
 </div>
