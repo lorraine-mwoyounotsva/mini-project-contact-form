@@ -20,3 +20,7 @@ This project is a responsive **Contact Form** webpage built using HTML and CSS. 
 - Use of external icon libraries (Font Awesome) to enhance UI.
 
 This project improved my skills in layout design, color theory, and responsive UI development.
+
+<div align="center">
+  <img src="https://github.com/lorraine-mwoyounotsva/mini-project-contact-form/blob/main/contact-form.png?raw=true" alt="404 Page Preview" width="400"/> 
+</div>
